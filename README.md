@@ -1,8 +1,8 @@
-# qpl
+##### qlp
 
-A Clojure library designed to ... 
+I am not 100% sure qlp is?...hmm? Even though I have just invented it on a plane between Wellington and Sydney... 
 
-I don't know what qpl is?... Even though I have just invented it on a plane between Wellington and Sydney... However what I feel is that question programing language is the most suitable language to program artificial inteligence. 
+However what I feel is that question programming language is the most suitable language to program artificial inteligence.
 
 ## Usage
 
