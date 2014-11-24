@@ -10,7 +10,7 @@ Why?
 
 Inteligent machine don't need to give good answers?.. Inteligent machine can ask?
 
-(He, she, what) can figure out if (he, she what) can google or use other compatible search products?
+(He, she, what) can figure out... if (he, she what) can google or use other compatible search products?
 
 #### 'no'-LICENCE
 
