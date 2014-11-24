@@ -1,7 +1,12 @@
-(ns qpl.core-test
+(ns qlp.core-test
   (:require [clojure.test :refer :all]
-            [qpl.core :refer :all]))
+            [qlp.core :refer :all]))
 
 (deftest a-test
-  (testing "FIXME, I fail."
-    (is (= 0 1))))
+  (testing "When we talk without context... it might not be important."
+    (is 
+      (= (what (_if (plq (_is (better (_then (qlp (_? nil))))))))) 
+      (i (dont (know nil))) 
+    )
+  )
+)
