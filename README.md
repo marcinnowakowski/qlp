@@ -12,6 +12,8 @@ Inteligent machine don't need to give good answers?.. Inteligent machine can ask
 
 (He, she, what) can figure out... if (he, she what) can google or use other compatible search products?
 
+... but you wouldn't write 'Hello world' in this language?
+
 #### 'no'-LICENCE
 
 
