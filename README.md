@@ -2,7 +2,7 @@
 
 Not sure what qlp really is?...hmm? Invented accidently on a plane... between Wellington and Sydney... 
 
-However I feel something. This language seems to be something totally new: question programming language?.. Most suitable language to program artificial inteligence.
+However I feel something. This language seems to be totally new: question programming language?.. Most suitable language to program artificial inteligence.
 
 ## Usage
 
